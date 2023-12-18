@@ -54,6 +54,12 @@ Bank Mata Kuliah Struktur Data
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph">Belajar Searching</a></li>
 </ul>
 
+## Studi Kasus
+<ul>
+  <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Quiz">Studi Kasus</a></li>
+</ul>
+
+## Template Proyek Tim
 <ul>
   <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Template-Final-Project-Data-Structure">Template</a></li>
 </ul>
