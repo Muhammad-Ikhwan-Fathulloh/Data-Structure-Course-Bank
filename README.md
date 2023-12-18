@@ -35,6 +35,7 @@ Bank Mata Kuliah Struktur Data
 ## Graph
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph">Belajar Graph</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph/AlgorithmDjikstra">Belajar Algoritma Djikstra</a></li>
 </ul>
 
 ## Tree
