@@ -5,7 +5,7 @@ Bank Mata Kuliah Struktur Data
 
 ## Jenis-Jenis Data
 <ul>
-  <li><a href="">Belajar Struktur Data</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/TipeData">Belajar Struktur Data</a></li>
 </ul>
 
 ## Array dan Record
