@@ -51,7 +51,7 @@ Bank Mata Kuliah Struktur Data
 
 ## Searching
 <ul>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph">Belajar Searching</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Searching">Belajar Searching</a></li>
 </ul>
 
 ## Studi Kasus
