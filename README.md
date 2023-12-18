@@ -4,6 +4,9 @@ Bank Mata Kuliah Struktur Data
 ## Konsep dan Filosofi Struktur Data
 
 ## Jenis-Jenis Data
+<ul>
+  <li><a href="">Belajar Struktur Data</a></li>
+</ul>
 
 ## Array dan Record
 <ul>
@@ -13,20 +16,43 @@ Bank Mata Kuliah Struktur Data
 </ul>
 
 ## Stack atau Tumpukan
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Stack">Belajar Stack</a></li>
+</ul>
 
 ## Queue atau Antrian
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Queue">Belajar Queue</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Priority%20Queue">Belajar Queue Priority</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Priority%20Queue%20Record">Belajar Kombinasi Queue Priority & Record</a></li>
+</ul>
 
 ## Linked List
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Linked%20List">Belajar Linked List</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Doubly%20Linked%20List">Belajar Doubly Linked List</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Linked%20List%20Record">Belajar Kombinasi Linked List & Record</a></li>
+</ul>
 
 ## Graph
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph">Belajar Graph</a></li>
+</ul>
 
 ## Tree
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Tree">Belajar Tree</a></li>
+</ul>
 
 ## Sorting
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Sort">Belajar Sorting</a></li>
+</ul>
 
 ## Searching
-
-## Pointer
+<ul>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Graph">Belajar Searching</a></li>
+</ul>
 
 <ul>
   <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Template-Final-Project-Data-Structure">Template</a></li>
