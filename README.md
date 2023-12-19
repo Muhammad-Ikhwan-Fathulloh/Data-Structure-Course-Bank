@@ -83,5 +83,5 @@ Materi: Linked List
 
 ## Template Proyek Tim
 <ul>
-  <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Template-Final-Project-Data-Structure">Template</a></li>
+  <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project">Template</a></li>
 </ul>
