@@ -46,6 +46,13 @@ Bank Mata Kuliah Struktur Data
 ## Sorting
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Sort">Belajar Sorting</a></li>
+  <li><a href="https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/">Referensi Belajar Sorting</a></li>
+  <ul>
+    <li><a href="https://www.programiz.com/dsa/bubble-sort">Bubble Sort</a></li>
+    <li><a href="https://www.programiz.com/dsa/insertion-sort">Insertion Sort</a></li>
+    <li><a href="https://www.programiz.com/dsa/merge-sort">Merge Sort</a></li>
+    <li><a href="https://www.programiz.com/dsa/quick-sort">Quick Sort</a></li>
+  </ul>
 </ul>
 
 ## Searching
